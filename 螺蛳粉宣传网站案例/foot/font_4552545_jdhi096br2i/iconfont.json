@@ -1,0 +1,16 @@
+{
+  "id": "4552545",
+  "name": "宣传广西",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8776873",
+      "name": "setting",
+      "font_class": "icon-test",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    }
+  ]
+}
